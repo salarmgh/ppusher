@@ -1,3 +1,3 @@
 # ppusher
-Prometheus Pusher is a processor for Apache NIFI that collect flow data from
-another prcessors and send it to Prometheus Push Gateway
+Prometheus Pusher is a library for to get and send data into prometheus for
+Apache NIFI
